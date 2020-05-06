@@ -1,0 +1,19 @@
+.brand-logo img {
+    width: 202px;
+}
+
+.nav-sb {
+    background-color: #1D1D1D;
+}
+
+.nav-sb ul a {
+    color: #D5BB53;
+}
+
+.nav-sb ul a:hover {
+    background-color:#484848;
+}
+
+.nav-sb ul a:active {
+    background-color:#484848;
+}
