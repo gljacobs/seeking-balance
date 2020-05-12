@@ -8,4 +8,12 @@
 .content {
     height: 100%;
     background: rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.content h1 {
+    margin: 0;
+    color: #D5BB53;
+    font-weight: bold;
+    padding-top: 15vh;
 }
